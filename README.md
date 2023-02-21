@@ -5,4 +5,4 @@
 #### Listening now:
 [![My scrobbles](https://lastfm-readme-customc.vercel.app/api?user=fuccsoc&width=495)](https://last.fm/user/fuccsoc)
 #### Contact with me:
-[TG](https://t.me/fuccsoc) | [VK](https://vk.com/fuccsoc) | [WebSite `(dead for now since f***ing oracle shutted down my server`](https://fuccsoc.com)
+[TG](https://t.me/fuccsoc) | [VK](https://vk.com/fuccsoc) | [WebSite](https://fuccsoc.me)
